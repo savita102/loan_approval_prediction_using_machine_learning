@@ -13,16 +13,16 @@ This project builds a machine learning model that predicts loan approval status 
 📂 Dataset Description
 
 The dataset includes the following key features:
-Applicant Income
-Co-applicant Income
-Loan Amount
-Loan Amount Term
-Credit History
-Gender
-Marital Status
-Education
-Self Employment
-Property Area
+Applicant Income,
+Co-applicant Income,
+Loan Amount,
+Loan Amount Term,
+Credit History,
+Gender,
+Marital Status,
+Education,
+Self Employment,
+Property Area,
 Target Variable:
 
 🔍 Exploratory Data Analysis (EDA)
